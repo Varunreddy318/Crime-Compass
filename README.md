@@ -1,8 +1,8 @@
-### Crime Compass Prediction
+# Crime Compass Prediction
 
 Crime Compass Prediction is a machine learning project that analyzes historical crime data to predict potential high-risk areas. The goal is to help authorities and communities take proactive safety measures based on data-driven insights.
 
-## 🚀 Features
+ 🚀 Features
 
 📊 Data Analysis & Visualization – Explore crime patterns and trends over time.
 
@@ -12,7 +12,7 @@ Crime Compass Prediction is a machine learning project that analyzes historical 
 
 ⚙️ End-to-End Pipeline – Includes data preprocessing, model training, and evaluation.
 
-# 🧠 Tech Stack
+🧠 Tech Stack
 
 Python
 
@@ -22,9 +22,9 @@ Matplotlib, Seaborn – Visualization
 
 Scikit-learn – Machine learning model building
 
-Flask / Streamlit (optional) – For interactive dashboard or deployment
+Flask  – For interactive dashboard or deployment
 
-# 🧩 How It Works
+🧩 How It Works
 
 Load and clean the historical crime dataset.
 
@@ -34,7 +34,7 @@ Train machine learning models to predict crime-prone areas.
 
 Visualize results on an interactive map or dashboard.
 
-# 📈 Results
+📈 Results
 
 Achieved high accuracy in predicting potential crime zones.
 
@@ -42,7 +42,7 @@ Generated heatmaps showing areas with higher crime likelihood.
 
 Provided actionable insights for law enforcement and policymakers.
 
-# 📜 Future Enhancements
+📜 Future Enhancements
 
 Integrate real-time crime data feeds.
 
@@ -50,7 +50,7 @@ Add deep learning models for improved prediction.
 
 Develop a mobile-friendly dashboard for live monitoring.
 
-# 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request for improvements or new features.
@@ -58,9 +58,8 @@ Feel free to fork the repo and submit a pull request for improvements or new fea
 # 🧑‍💻 Author
 
 Varun Reddy
-📧 [Your Email Here]
-🔗 [LinkedIn or Portfolio Link]
+📧 varunreddy8743@gmail.com
 
-# 📄 License
+📄 License
 
 This project is licensed under the MIT License – free to use and modify.
